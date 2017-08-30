@@ -12,6 +12,7 @@ namespace LightsOut
 {
     public partial class MainForm : Form
     {
+    //Variable definitions
         private const int GridOffset = 25;  // Distance from upper-left side of window
         private const int GridLength = 200; // Size in pixels of grid
         private const int NumCells = 3;     // Number of cells in grid
